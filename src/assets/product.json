@@ -1,0 +1,62 @@
+[
+  {
+    "card": "Hot",
+    "title": "Furniture",
+    "name": "Otobi comy sofa",
+    "discountPrice": "3420.00",
+    "originalPrice": "5420.00",
+    "image": [
+      "https://i.ibb.co/7XZT0Rf/pngegg-3.png",
+      "https://i.ibb.co/KDZPpvf/pngegg-2.png",
+      "https://i.ibb.co/FJ99FHy/pngegg-1.png"
+    ]
+  },
+  {
+    "card": "New",
+    "title": "Cosmetics",
+    "name": "Lipstics",
+    "discountPrice": "342.00",
+    "originalPrice": "542.00",
+    "image": [
+      "https://i.ibb.co/0nQpfbK/pngegg-6.png",
+      "https://i.ibb.co/B4dnw7f/pngegg-5.png",
+      "https://i.ibb.co/wQkcb34/pngegg-4.png"
+    ]
+  },
+  {
+    "card": "Hot",
+    "title": "Headphone",
+    "name": "Remix 3840 64 base earphone",
+    "discountPrice": "342.00",
+    "originalPrice": "542.00",
+    "image": [
+      "https://i.ibb.co/n3ybKd3/pngegg-9.png",
+      "https://i.ibb.co/G0kYm97/pngegg-8.png",
+      "https://i.ibb.co/P48rhj0/pngegg-7.png"
+    ]
+  },
+  {
+    "card": "Not",
+    "title": "Electronics",
+    "name": "TP link 3240 5G router",
+    "discountPrice": "4420.00",
+    "originalPrice": "5420.00",
+    "image": [
+      "https://i.ibb.co/cgP443n/pngegg-12.png",
+      "https://i.ibb.co/wCV5PDM/pngegg-11.png",
+      "https://i.ibb.co/YWzqy8y/pngegg-10.png"
+    ]
+  },
+  {
+    "card": "Hot",
+    "title": "Electronics",
+    "discountPrice": "34200.00",
+    "originalPrice": "54200.00",
+    "name": "Samsung Oled 32 Inch Android Tv",
+    "image": [
+      "https://i.ibb.co/0tdxj7m/pngegg-15.png",
+      "https://i.ibb.co/nL75Pc0/pngegg-14.png",
+      "https://i.ibb.co/BBbLrfy/pngegg-13.png"
+    ]
+  }
+]

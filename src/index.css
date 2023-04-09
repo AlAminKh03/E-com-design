@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Rubik", sans-serif;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: black !important;
+}
+.slick-prev {
+  padding-left: 5px;
+  z-index: 10;
+}
+.slick-next {
+  padding-right: 25px;
+  z-index: 10;
+}
+
+.slick-slider .slick-dots,
+.slick-slider .slick-prev,
+.slick-slider .slick-next {
+  display: none !important;
+}
+
+.slick-slider:hover .slick-dots,
+.slick-slider:hover .slick-prev,
+.slick-slider:hover .slick-next {
+  display: block !important;
+}
+.slick-dots {
+  margin: 0;
+  padding: 0;
+}
+
+.slick-dots li {
+  margin: 0;
+  padding: 0;
+}
