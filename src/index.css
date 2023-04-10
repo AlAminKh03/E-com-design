@@ -10,14 +10,14 @@ body {
 .slick-next:before {
   color: black !important;
 }
-.slick-prev {
+/* .slick-prev {
   padding-left: 5px;
   z-index: 10;
 }
 .slick-next {
   padding-right: 25px;
   z-index: 10;
-}
+} */
 
 .slick-slider .slick-dots,
 .slick-slider .slick-prev,
@@ -25,9 +25,9 @@ body {
   display: none !important;
 }
 
-.slick-slider:hover .slick-dots,
-.slick-slider:hover .slick-prev,
-.slick-slider:hover .slick-next {
+.for-hover:hover .slick-dots,
+.for-hover:hover .slick-prev,
+.for-hover:hover .slick-next {
   display: block !important;
 }
 .slick-dots {
